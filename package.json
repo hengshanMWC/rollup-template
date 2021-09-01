@@ -24,10 +24,7 @@
   ],
   "author": "mawencan",
   "license": "ISC",
-  "dependencies": {
-    "ali-oss": "^6.16.0",
-    "axios": "^0.21.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^27.0.1",
     "babel-jest": "^27.1.0",
